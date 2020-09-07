@@ -1,4 +1,4 @@
 library(testthat)
-library(n1qn1c)
+library(n1qn1)
 
-test_check("n1qn1c")
+test_check("n1qn1")
